@@ -73,7 +73,7 @@ a:hover {
 .table {
   background-color: grey;
   border-color: black;
-  position: absolute;
+  position: relative;
   max-width: 97%;
   max-height: 100%;
   margin: auto;
